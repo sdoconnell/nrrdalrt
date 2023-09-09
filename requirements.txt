@@ -1,0 +1,4 @@
+notify2>=0.3
+daemonize>=2.5
+python-datetime>=2.8
+tzlocal>=2.1
